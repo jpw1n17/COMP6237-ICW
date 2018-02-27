@@ -1,0 +1,8 @@
+nltk
+numpy
+gensim
+pandas
+html2text
+scipy
+
+
